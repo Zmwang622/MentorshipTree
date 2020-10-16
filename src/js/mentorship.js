@@ -25,7 +25,7 @@ matv = {
     collapsed: true,
     text:{
         name: "Mathew Varughese",
-        desc: "Pitt CS 2020 | CSC VP 2018-2020, Mentorship Founder",
+        desc: "CS 2020 | CSC VP 2018-2020, Mentorship Founder",
         contact: {
             val: "LinkedIn: matvarughese",
             href: "https://www.linkedin.com/in/matvarughese/",
@@ -36,10 +36,11 @@ matv = {
 
 zhengmingw = {
     parent: matv, 
+    image: "img/ming.JPG", 
     collapsed: true,
     text:{
         name:'Zhengming Wang',
-        desc: "Pitt CS 2022 | CSC President 2020-Present ",
+        desc: "CS 2022 | CSC President 2020-Present ",
         contact: {
             val: "LinkedIn: zhengmingwang",
             href: "https://www.linkedin.com/in/zhengmingwang",
@@ -52,7 +53,7 @@ richardg = {
     parent: matv, 
     text: {
         name: "Richie Goulazian",
-        desc: "Pitt CS 2023 | CSC Director 2020-Present ",
+        desc: "CS 2023 | CSC Director 2020-Present ",
         contact: {
             val: "LinkedIn: rgoulazian",
             href: "https://www.linkedin.com/in/rgoulazian/",
@@ -65,7 +66,7 @@ simons = {
     parent: zhengmingw, 
     text:{
         name:"Simon Schueller",
-        desc: "Pitt CS 2024",
+        desc: "CS 2024",
         contact: {
             val: "LinkedIn: simon-schueller",
             href: "https://www.linkedin.com/in/simon-schueller",
