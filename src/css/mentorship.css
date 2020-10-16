@@ -1,0 +1,25 @@
+/* Mentorship Tree CSS */
+.tree { height: 670px; margin: 5px; width: 900px; }
+.Treant > .node { padding: 3px; border: 1px solid #484848; border-radius: 3px; }
+.Treant > .node img { width: 100%; height: 100%; }
+.Treant .collapse-switch { width: 100%; height: 100%; border: none; }
+.Treant .node.collapsed { background-color: #FFB81C; }
+.Treant .node.collapsed .collapse-switch { background: none; }
+.Treant > p { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; font-size: 12px; }
+.node-name { font-weight: bold; font-size: 16px;}
+
+.person {
+    padding: 10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    width: 200px;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+.person img {
+    margin-right:  10px;
+}
