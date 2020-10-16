@@ -1,0 +1,25 @@
+[
+    {
+        "0001": {
+            "name":"Mathew Varughese",
+            "linkedin": "matvarughese"
+        },
+        "0002": {
+            "name": "Ming Wang",
+            "linkedin": "zhengmingwang"
+        },
+        "0003": {
+            "name": "Richie Goulazian",
+            "linkedin": "rgoulazian"
+        },
+        "0004": {
+            "name": "Simon Schueller",
+            "linkedin": "simon-schueller"
+        }
+    },
+    [
+        ["0001", "0002"],
+        ["0001", "0003"],
+        ["0002", "0004"]
+    ]
+]
