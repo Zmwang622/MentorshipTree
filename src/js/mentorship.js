@@ -11,7 +11,6 @@ var config = {
     // node properties
     node: {
         HTMLclass: 'person',
-        collapsed: true,
         collapsable:true
     },
     animation: {
@@ -23,6 +22,7 @@ var config = {
 },
 
 matv = {
+    collapsed: true,
     text:{
         name: "Mathew Varughese",
         desc: "Pitt CS 2020 | CSC VP 2018-2020, Mentorship Founder",
@@ -36,6 +36,7 @@ matv = {
 
 zhengmingw = {
     parent: matv, 
+    collapsed: true,
     text:{
         name:'Zhengming Wang',
         desc: "Pitt CS 2022 | CSC President 2020-Present ",
