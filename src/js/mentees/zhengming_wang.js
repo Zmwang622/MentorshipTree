@@ -3,7 +3,7 @@ var pseudo_zhengming_wang_2019 = {
     pseudo: true
 },
 
-teohz = {
+teoh_zhixiang = {
     parent: zhengming_wang, 
     text:{
         name:"Teoh Zhixiang",
@@ -16,20 +16,20 @@ teohz = {
     }
 }, 
 
-rohitb = {
+rohit_bommisetti = {
     parent: zhengming_wang, 
     text:{
         name:"Rohit Bommisetti",
         desc: "Philosophy 2023",
         contact: {
             val: "LinkedIn",
-            href: "https://www.linkedin.com/in/rohitbommisetti",
+            href: "https://www.linkedin.com/in/rohit_bommisettiommisetti",
             target:"_blank"
         }
     }
 }, 
 
-simons = {
+simon_schueller = {
     parent: pseudo_zhengming_wang_2019, 
     text:{
         name:"Simon Schueller",
@@ -42,7 +42,7 @@ simons = {
     }
 }, 
 
-ohinib = {
+ohini_bruce = {
     parent: pseudo_zhengming_wang_2019, 
     text:{
         name:"Ohini Bruce",
