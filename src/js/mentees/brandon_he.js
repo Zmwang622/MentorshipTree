@@ -10,10 +10,10 @@ pseudo_brandonh_2019 = {
     childrenDropLevel:1
 },
 
-aidenf = {
+aiden_fertich = {
     parent: brandonh, 
     text:{
-        name:'Aiden Grey Fertich',
+        name:"Aiden Grey Fertich",
         desc: "CS 2022",
         contact: {
             val: "LinkedIn",
@@ -26,7 +26,7 @@ aidenf = {
 kaitlyn_wang = {
     parent: pseudo_brandonh_2018, 
     text:{
-        name:'Kaitlyn Wang',
+        name:"Kaitlyn Wang",
         desc: "CS 2023",
         contact: {
             val: "LinkedIn",
@@ -39,7 +39,7 @@ kaitlyn_wang = {
 sydni_roller = {
     parent: pseudo_brandonh_2018, 
     text:{
-        name:'Sydni Roller',
+        name:"Sydni Roller",
         desc: "CS 2023",
         contact: {
             val: "LinkedIn",
@@ -52,7 +52,7 @@ sydni_roller = {
 ria_chadha = {
     parent: pseudo_brandonh_2019, 
     text:{
-        name:'Ria Chadha',
+        name:"Ria Chadha",
         desc: "CS & DNID 2024",
         contact: {
             val: "LinkedIn",
@@ -65,7 +65,7 @@ ria_chadha = {
 daulton_cipicchio = {
     parent: pseudo_brandonh_2019, 
     text:{
-        name:'Daulton Cipicchio',
+        name:"Daulton Cipicchio",
         desc: "CS 2022",
         contact: {
             val: "LinkedIn",
@@ -78,7 +78,7 @@ daulton_cipicchio = {
 shreya_kalla = {
     parent: pseudo_brandonh_2019, 
     text:{
-        name:'Shreya Kalla',
+        name:"Shreya Kalla",
         desc: "CS 2024",
         contact: {
             val: "LinkedIn",

@@ -12,7 +12,7 @@ pseudo_matv_2019 = {
 zhengmingw = {
     parent: matv, 
     text:{
-        name:'Zhengming Wang',
+        name:"Zhengming Wang",
         desc: "CS 2022 | CSC Pres. 2020-Present ",
         contact: {
             val: "LinkedIn",
