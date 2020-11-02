@@ -1,3 +1,3 @@
-var tree_config = [config, root, brandon_he, mat_varughese, zhengming_wang,richard_goulazian,kabilan_balasubramani,teohz, rohitb, simons, ohinib, michael_bartlett, andrest,aiden_fertich,kaitlyn_wang,sydni_roller,ria_chadha,daulton_cipicchio,shreya_kalla,caela_go,alexander_grattan,steven_yang]
+var tree_config = [config, root, brandon_he, mat_varughese, zhengming_wang,richard_goulazian,kabilan_balasubramani,teohz, rohitb, simons, ohinib, michael_bartlett, andrest,aiden_fertich,kaitlyn_wang,sydni_roller,ria_chadha,daulton_cipicchio,shreya_kalla,caela_go,alexander_grattan,steven_yang, jeremy_tygh]
 var pseudos = [pseudo_mat_varughese_2019,pseudo_mat_varughese_2018,pseudo_zhengming_wang_2019,pseudo_brandon_he_2018,pseudo_brandon_he_2019,pseudo_aiden_fertich_2019]
 var tree = new Treant(tree_config.concat(pseudos))
