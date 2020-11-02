@@ -3,7 +3,7 @@
 .Treant > .node { padding: 3px; border: 1px solid #484848; border-radius: 3px; }
 .Treant > .node img { width: 100%; height: 100%; }
 .Treant .collapse-switch { width: 100%; height: 100%; border: none; }
-.Treant .node.collapsed { background-color: #FFB81C; }
+.Treant .node.collapsed { background-color: #ffe9b8; }
 .Treant .node.collapsed .collapse-switch { background: none; }
 .Treant > p { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; font-size: 12px; }
 .node-name { font-weight: bold; font-size: 16px;}
