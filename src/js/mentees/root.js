@@ -24,4 +24,15 @@ brandon_he = {
             target: "_blank"
         }
     }
+},
+
+pseudo_root_2019 = {
+    parent: root,
+    pseudo:true
+},
+
+pseudo_root_2020 = {
+    parent: root,
+    pseudo:true,
+    childrenDropLevel:1
 };
