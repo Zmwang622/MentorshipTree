@@ -1,29 +1,29 @@
-var pseudo_matv_2018 = {
-    parent: matv,
+var pseudo_mat_varughese_2018 = {
+    parent: mat_varughese,
     pseudo:true
 },
 
-pseudo_matv_2019 = {
-    parent:matv,
+pseudo_mat_varughese_2019 = {
+    parent:mat_varughese,
     childrenDropLevel:1,
     pseudo:true
 },
 
-zhengmingw = {
-    parent: matv, 
+zhengming_wang = {
+    parent: mat_varughese, 
     text:{
         name:"Zhengming Wang",
         desc: "CS 2022 | CSC Pres. 2020-Present ",
         contact: {
             val: "LinkedIn",
-            href: "https://www.linkedin.com/in/zhengmingwang",
+            href: "https://www.linkedin.com/in/zhengming_wang",
             target:"_blank"
         }
     }
 }, 
 
-richardg = {
-    parent: pseudo_matv_2018, 
+richard_goulazian = {
+    parent: pseudo_mat_varughese_2018, 
     text: {
         name: "Richie Goulazian",
         desc: "CS 2023 | CSC Director 2020-Present ",
@@ -35,8 +35,8 @@ richardg = {
     }
 }, 
 
-kabilanb = {
-    parent: pseudo_matv_2019, 
+kabilan_balasubramani = {
+    parent: pseudo_mat_varughese_2019, 
     text: {
         name: "Kabilan Balasubramani",
         desc: "CS 2024  ",

@@ -1,10 +1,10 @@
-var pseudo_zhengmingw_2019 = {
-    parent: zhengmingw,
+var pseudo_zhengming_wang_2019 = {
+    parent: zhengming_wang,
     pseudo: true
 },
 
 teohz = {
-    parent: zhengmingw, 
+    parent: zhengming_wang, 
     text:{
         name:"Teoh Zhixiang",
         desc: "CS 2023",
@@ -17,7 +17,7 @@ teohz = {
 }, 
 
 rohitb = {
-    parent: zhengmingw, 
+    parent: zhengming_wang, 
     text:{
         name:"Rohit Bommisetti",
         desc: "Philosophy 2023",
@@ -30,7 +30,7 @@ rohitb = {
 }, 
 
 simons = {
-    parent: pseudo_zhengmingw_2019, 
+    parent: pseudo_zhengming_wang_2019, 
     text:{
         name:"Simon Schueller",
         desc: "CS 2024",
@@ -43,7 +43,7 @@ simons = {
 }, 
 
 ohinib = {
-    parent: pseudo_zhengmingw_2019, 
+    parent: pseudo_zhengming_wang_2019, 
     text:{
         name:"Ohini Bruce",
         desc: "Comp Bio 2024",
@@ -55,7 +55,7 @@ ohinib = {
 }, 
 
 michael_bartlett = {
-    parent: pseudo_zhengmingw_2019, 
+    parent: pseudo_zhengming_wang_2019, 
     text:{
         name:"Michael Bartlett",
         desc: "CS 2024",
@@ -68,7 +68,7 @@ michael_bartlett = {
 }, 
 
 andrest = {
-    parent: pseudo_zhengmingw_2019, 
+    parent: pseudo_zhengming_wang_2019, 
     text:{
         name:"Andres Trujillo",
         desc: "CS 2024",

@@ -1,6 +1,6 @@
 // the OG Mentors
 
-var matv = {
+var mat_varughese = {
     parent: root,
     text:{
         name: "Mathew Varughese",
@@ -13,7 +13,7 @@ var matv = {
     }
 },
 
-brandonh = {
+brandon_he = {
     parent: root,
     text:{
         name: "Brandon He",
