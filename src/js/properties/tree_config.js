@@ -5,6 +5,7 @@ var config = {
     siblingSeparation: 40,
     subtreeSeparation: 30,
     hideRootNode: true,
+    scrollbar: "fancy",
     connectors: {
         type: 'step'
     },

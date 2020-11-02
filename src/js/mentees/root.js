@@ -28,11 +28,23 @@ brandon_he = {
 
 pseudo_root_2019 = {
     parent: root,
-    pseudo:true
+    pseudo:true,
+    connectors: {
+        style:
+            {
+                stroke: "white"
+            }
+    }
 },
 
 pseudo_root_2020 = {
     parent: root,
     pseudo:true,
-    childrenDropLevel:1
+    childrenDropLevel:1,
+    connectors: {
+        style:
+            {
+                stroke: "white"
+            }
+    }
 };
