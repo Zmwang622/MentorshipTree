@@ -23,6 +23,7 @@ aiden_fertich = {
     }
 }, 
 
+["Kaitlyn Wang", "CS 2023"]
 kaitlyn_wang = {
     parent: pseudo_brandon_he_2018, 
     text:{
